@@ -1,1 +1,4 @@
-mlflow scikit-learn openai python-dotenv
+mlflow
+scikit-learn
+openai
+python-dotenv
